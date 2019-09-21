@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "capital info..modify";
+        return "capital info..new modify";
     }
 }
