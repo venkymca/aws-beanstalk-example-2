@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "capital info..new commit by dev";
+        return "new modf is done..";
     }
 }
